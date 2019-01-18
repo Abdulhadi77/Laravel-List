@@ -99,6 +99,8 @@ https://hackernoon.com/eloquent-relationships-cheat-sheet-5155498c209
 https://github.com/gunthercox/ChatterBot
 https://github.com/php-ai
 https://github.com/php-ai/php-ml
+This is important:
+https://botman.io/
 
 
 
