@@ -95,6 +95,8 @@ https://certification.laravel.com/?fbclid=IwAR2A8XiaaD3S6bgETEBL5nyGmAB4Sc_OG2tg
 # Articles:
 https://hackernoon.com/eloquent-relationships-cheat-sheet-5155498c209
 
+# PHP Chatbot
+https://github.com/gunthercox/ChatterBot
 
 
 
