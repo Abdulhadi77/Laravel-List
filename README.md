@@ -97,6 +97,7 @@ https://hackernoon.com/eloquent-relationships-cheat-sheet-5155498c209
 
 # PHP Chatbot
 https://github.com/gunthercox/ChatterBot
+https://github.com/php-ai
 
 
 
