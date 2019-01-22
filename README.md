@@ -1,6 +1,12 @@
 # Laravel-List
 A repository contains resources for laravel developers
 
+# LaravelDaily (it has quick admin panel)
+https://quickadminpanel.com/
+https://github.com/LaravelDaily
+Hotel Managment System:
+https://github.com/LaravelDaily/Hotel-Booking
+
 # This is awesome
 # Awesome Laravel: (It HAS A LOT OF THINGS!!!!!!!!!)
 https://github.com/chiraggude/awesome-laravel
