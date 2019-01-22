@@ -1,6 +1,9 @@
 # Laravel-List
 A repository contains resources for laravel developers
 
+#Projects
+codecandle.com
+
 # LaravelDaily (it has quick admin panel)
 https://quickadminpanel.com/
 https://github.com/LaravelDaily
