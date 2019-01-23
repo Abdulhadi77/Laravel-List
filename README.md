@@ -111,6 +111,7 @@ https://github.com/php-ai/php-ml
 This is important:
 https://botman.io/
 
-
+# Laravel Analytics
+https://github.com/spatie/laravel-analytics
 
 
