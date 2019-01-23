@@ -4,6 +4,11 @@ A repository contains resources for laravel developers
 #Projects
 codecandle.com
 
+# AI with Laravel
+https://github.com/php-ai/php-ml
+https://packagist.org/packages/aimeos/ai-laravel
+
+
 # LaravelDaily (it has quick admin panel)
 https://quickadminpanel.com/
 https://github.com/LaravelDaily
@@ -103,6 +108,7 @@ https://certification.laravel.com/?fbclid=IwAR2A8XiaaD3S6bgETEBL5nyGmAB4Sc_OG2tg
 
 # Articles:
 https://hackernoon.com/eloquent-relationships-cheat-sheet-5155498c209
+https://scotch.io/tag/laravel
 
 # PHP Chatbot
 https://github.com/gunthercox/ChatterBot
