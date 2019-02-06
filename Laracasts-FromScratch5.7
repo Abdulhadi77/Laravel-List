@@ -8,3 +8,57 @@ nova.laravel.com
 testdrivenlaravel.com
 serversforhackers.com
 Laravel up and running book
+
+Source code for every lecture is in github 
+https://laracasts.com/series/laravel-from-scratch-2018
+
+
+Notes:
+14:
+fillable : الشغلات يلي بدي أختبر عليها ال mass assignment بحطها جواتها
+guarded : معناها كل شي ما رح أختبر عليه إلا يلي بحطن هووووون
+mass assignement : أنو مثلاً بقدر خزن العنوان و الاسم، بقوم واحد بيفوت شي غير هدول و بخزنو بالجدول عندي!
+مثلاً فيني أتحكم بقيمة ال id
+سواء كهاكر
+أو كشخص كتب التالي:
+$request->all()
+و حاطط guarded = []
+هاد غلط
+
+15:
+validation frontend & backend
+
+16:
+هام جداً، لما نكتب
+Php artisan tinker
+$task = App\Task::first();
+بينفذ query وحدة
+و وقت نفذ هي التالية بيجيييييييييب ال projects يلي متعلقين بهال task
+$task->project;
+طبعاً نحنا عاملين علاقة بين جدول ال Task و جدول  ال Project
+
+17:
+PATCH:
+X = /projects/id/tasks/id
+Y = /tasks/id
+<form method = "POST" action ="X or Y">
+	/*Update*/
+	@method('PATCH')
+	@csrf
+	
+	<label class="checkbox" {{if $task->completed ? 'is-complete' : ''}} for ="completed">
+		<input type="checkbox" name="completed" onChange = "this.form.submit()" {{if $task->completed ? 'checked' : ''}}>
+			{{ $task->description }}
+			</
+			</
+</form>
+
+	
+	$task->update([
+		'completed' => request()->has('completed')
+	])
+	if the radio button not checked then the properity completed will not be exist! (for this reason I used has)
+	
+	
+	
+18:
