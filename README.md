@@ -1,6 +1,13 @@
 # Laravel-List
 A repository contains resources for laravel developers
 
+
+## Laravel Eloquent Cheat Sheet
+https://hackernoon.com/eloquent-relationships-cheat-sheet-5155498c209
+
+https://qiita.com/netfish/items/1094f18fa32f03c614c3
+
+
 #Projects
 codecandle.com
 
