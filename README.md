@@ -1,6 +1,13 @@
 # Laravel-List
 A repository contains resources for laravel developers
 
+## Projects:
+# Pharmacy:
+http://www.laravel-vuejs.com/pharma-pharmacy-billing-management/?fbclid=IwAR2H_gVCGg0nDZ9eDei78R4L1fvZaCVpoHnmi6ABoOCL_4UPcN-73STjM0I
+
+# E-Commerce:
+http://www.laravel-vuejs.com/fluxkart-multivendor-products-marketplace/?fbclid=IwAR3MTjWCGd-lpwbpBuVICpEqVT0YgJ05t46Rk9TLGd2kJZAJ8A3kJMrTilY
+
 
 ## Laravel Eloquent Cheat Sheet
 https://hackernoon.com/eloquent-relationships-cheat-sheet-5155498c209
