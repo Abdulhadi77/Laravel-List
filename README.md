@@ -8,10 +8,19 @@ http://www.laravel-vuejs.com/pharma-pharmacy-billing-management/?fbclid=IwAR2H_g
 # E-Commerce:
 http://www.laravel-vuejs.com/fluxkart-multivendor-products-marketplace/?fbclid=IwAR3MTjWCGd-lpwbpBuVICpEqVT0YgJ05t46Rk9TLGd2kJZAJ8A3kJMrTilY
 
+## Query Builder VS Laravel Eloquent:
+For our application we are doing exactly that - using Laravel's Eloquent in web forms to process a single record and using DB (with SQL views) to retrieve data for grids, export etc.
+https://stackoverflow.com/questions/38391710/laravel-eloquent-vs-query-builder-why-use-eloquent-to-decrease-performance
+
+## Convert SQL Normal to Laravel Query Builder:
+https://laravel-news.com/convert-sql-laravel-builder-orator
+## Convert Laravel Eloquent to Laravel Query Builder:
+https://stackoverflow.com/questions/44497115/generate-the-raw-mysql-query-from-laravel-query-builder
+
 
 ## Laravel Eloquent Cheat Sheet
 https://hackernoon.com/eloquent-relationships-cheat-sheet-5155498c209
-
+https://m.dotdev.co/writing-advanced-eloquent-search-query-filters-de8b6c2598db
 https://qiita.com/netfish/items/1094f18fa32f03c614c3
 
 
